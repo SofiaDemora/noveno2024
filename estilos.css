@@ -7,11 +7,13 @@ body{ background-color: lightblue;
 header{
   background-color:aliceblue;
   margin-top: 15px;
+  align-content:center;
   font-family:Goudy Old Style;
   font-size:large;
   display:flex;
-  justify-content:space-around;
+  justify-content:center;
 }
+
 
 .redes{
   font-size:small;

@@ -9,11 +9,10 @@ header{
   margin-top: 15px;
   font-family:Goudy Old Style;
   font-size:large;
+  display:flex;
+  justify-content:space-around;
 }
 
-.logoL{
-  margin-right:10%;
-}
 .redes{
   font-size:small;
 }

@@ -1,7 +1,7 @@
 body{ background-color: lightblue;
   font-family: Times New Roman, Arial, Helvetica;
   font-size:medium;
-  text-align:justify;
+  text-align:left;
   margin:3%;
   }
 header{
@@ -9,24 +9,21 @@ header{
   margin-top: 15px;
   align-content:center;
   font-family:Goudy Old Style;
-  font-size:large;
+  font-size:x-large;
   display:flex;
   justify-content:center;
 }
 aside{
-  position:static;
+  position:fixed;
   right:3%;
 }
 main{
   float:left;
-}
-
-container{
-  display:flex;
+  margin-right: 180px;
 }
 
 .cont{
-  margin-right:3%;
+  margin-right:6%;
 }
 .redes{
   font-size:small;

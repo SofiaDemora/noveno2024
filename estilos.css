@@ -1,13 +1,19 @@
 body{ background-color: lightblue;
   font-family: Times New Roman, Arial, Helvetica;
-  font-size: inherit;
+  font-size:medium;
+  text-align:justify;
+  margin:3%;
   }
 header{
   background-color:aliceblue;
   margin-top: 15px;
-  text-align:inherit;
+  font-family:Goudy Old Style;
+  font-size:large;
 }
 
+.logoL{
+  margin-right:10%;
+}
 .redes{
-  font-size:x-small;
+  font-size:small;
 }

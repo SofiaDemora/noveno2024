@@ -13,13 +13,24 @@ header{
   display:flex;
   justify-content:center;
 }
-
+aside{
+  margin-top:3%;
+  float:right;
+  position:fixed;
+}
+main{
+  float:left;
+}
+container{
+  display:flex;
+}
 .cont{
   margin-right:6%;
 }
 .redes{
   font-size:small;
   color:#834320;
+  display:list-item;
 }
 .redes:hover{
   color: #DA9827; 

@@ -14,18 +14,19 @@ header{
   justify-content:center;
 }
 aside{
-  margin-top:3%;
-  float:right;
-  position:fixed;
+  position:static;
+  right:3%;
 }
 main{
   float:left;
 }
+
 container{
   display:flex;
 }
+
 .cont{
-  margin-right:6%;
+  margin-right:3%;
 }
 .redes{
   font-size:small;
